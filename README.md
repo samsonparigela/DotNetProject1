@@ -1,2 +1,2 @@
 # DotNetProject1
-Hexawere Training
+Hexaware Training
